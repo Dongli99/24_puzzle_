@@ -16,7 +16,7 @@ Find all solutions for the 24 game with the numbers 5, 6, 7, and 8 <br>
 <i>GeneralSolution24([5, 6, 7, 8])</i> <br>
 <b>Output: </b><br>
 There are 9 solutions for [5, 6, 7, 8]:  <br>
-(7-(8-5))*6,&ensp;(5+7-8)*6,  8/((7-5)/6),  6/((7-5)/8),  (7-8+5)*6,  (6/(7-5))*8,  (5-(8-7))*6,  (5-8+7)*6,  (8/(7-5))*6
+(7-(8-5))*6,&ensp;(5+7-8)*6,&ensp;8/((7-5)/6),&ensp;6/((7-5)/8),&ensp;(7-8+5)*6,&ensp;(6/(7-5))*8,&ensp;(5-(8-7))*6,&ensp;(5-8+7)*6,&ensp;(8/(7-5))*6
 
 # License
 This project is released under the MIT License. See the LICENSE file for more details.
