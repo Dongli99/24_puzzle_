@@ -1,4 +1,4 @@
-# 24points
+# 24(puzzle)
 A Python function that calculates all possible solutions for the 24 game with any 4 positive integers.
 
 # Requirements
